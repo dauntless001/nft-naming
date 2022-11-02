@@ -1,0 +1,16 @@
+{
+    "format": "CHIP-0007",
+    "id": "a47b2ed7-d4aa-4404-ac40-0ecea464cf3f",
+    "name": "Jude Shadow Fighter",
+    "filename": "jude-shadow-fighter",
+    "description": "a ninja warrior, the last samurai standing",
+    "minting_tool": "TEAM ENGINE SuperMinter",
+    "sensitive_content": false,
+    "series_number": "60",
+    "series_total": "420",
+    "gender": "",
+    "collection": {
+        "name": "Zuri Hng NFT Collection",
+        "id": "24f5ff82-a2f1-494e-8be5-69f1d5e42d15"
+    }
+}

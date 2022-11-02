@@ -1,0 +1,16 @@
+{
+    "format": "CHIP-0007",
+    "id": "e0858913-7050-4c4a-a2a0-442a88463334",
+    "name": "Nana The Tech Lady",
+    "filename": "nana-the-tech lady",
+    "description": "",
+    "minting_tool": "TEAM VBELT SuperMinter",
+    "sensitive_content": false,
+    "series_number": "365",
+    "series_total": "420",
+    "gender": "Female",
+    "collection": {
+        "name": "Zuri Hng NFT Collection",
+        "id": "24f5ff82-a2f1-494e-8be5-69f1d5e42d15"
+    }
+}

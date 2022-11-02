@@ -1,0 +1,16 @@
+{
+    "format": "CHIP-0007",
+    "id": "4f31fd99-4918-42a9-a112-fa60ef36d5c6",
+    "name": "Barbra Vampire Bc",
+    "filename": "barbra-vampire-bc",
+    "description": "she loves drinking the blood of her victims",
+    "minting_tool": "TEAM ENGINE SuperMinter",
+    "sensitive_content": false,
+    "series_number": "42",
+    "series_total": "420",
+    "gender": "",
+    "collection": {
+        "name": "Zuri Hng NFT Collection",
+        "id": "24f5ff82-a2f1-494e-8be5-69f1d5e42d15"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "format": "CHIP-0007",
+    "id": "26340cc4-e334-494e-a737-f2b4bb9bb22e",
+    "name": "Olofi",
+    "filename": "Olofi",
+    "description": "Olofi is the Yoruba creator god and messenger.",
+    "minting_tool": "TEAM AXE SuperMinter",
+    "sensitive_content": false,
+    "series_number": "381",
+    "series_total": "420",
+    "gender": "Male",
+    "collection": {
+        "name": "Zuri Hng NFT Collection",
+        "id": "24f5ff82-a2f1-494e-8be5-69f1d5e42d15"
+    }
+}

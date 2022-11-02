@@ -1,0 +1,16 @@
+{
+    "format": "CHIP-0007",
+    "id": "b3427836-627b-41e4-a2d0-c29473448343",
+    "name": "Abosom",
+    "filename": "Abosom",
+    "description": "Abosom is the goddess of wisdom and knowledge of the Ghana people.",
+    "minting_tool": "TEAM AXE SuperMinter",
+    "sensitive_content": false,
+    "series_number": "391",
+    "series_total": "420",
+    "gender": "Female",
+    "collection": {
+        "name": "Zuri Hng NFT Collection",
+        "id": "24f5ff82-a2f1-494e-8be5-69f1d5e42d15"
+    }
+}

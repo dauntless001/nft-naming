@@ -3,11 +3,12 @@
     "id": "c8b1fd1d-8551-4bb4-8dc4-923a9aeb39fb",
     "name": "Gbeminyi The Monk",
     "filename": "gbeminyi-the-monk",
-    "description": "",
-    "minting_tool": "Matanmi Sea",
+    "description": "He lives in a monastery off the coast. No one has heard him speak in years.",
+    "minting_tool": "TEAM BEVEL SuperMinter",
     "sensitive_content": false,
     "series_number": "11",
-    "series_total": "392",
+    "series_total": "420",
+    "gender": "male",
     "collection": {
         "name": "Zuri Hng NFT Collection",
         "id": "24f5ff82-a2f1-494e-8be5-69f1d5e42d15"

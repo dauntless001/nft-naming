@@ -1,0 +1,16 @@
+{
+    "format": "CHIP-0007",
+    "id": "dacbbb38-087d-4248-8085-13b619da0ef9",
+    "name": "Erinle",
+    "filename": "Erinle",
+    "description": "Erinle is a powerful hunter of the Yoruba land.,",
+    "minting_tool": "TEAM AXE SuperMinter",
+    "sensitive_content": false,
+    "series_number": "389",
+    "series_total": "420",
+    "gender": "Male",
+    "collection": {
+        "name": "Zuri Hng NFT Collection",
+        "id": "24f5ff82-a2f1-494e-8be5-69f1d5e42d15"
+    }
+}

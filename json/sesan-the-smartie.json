@@ -3,11 +3,12 @@
     "id": "ba3edda7-8940-4ca4-97ba-826398d5909f",
     "name": "Sesan The Smartie",
     "filename": "sesan-the-smartie",
-    "description": "",
-    "minting_tool": "Matanmi Sea",
+    "description": "Sesan always comes first in competitions.",
+    "minting_tool": "TEAM BEVEL SuperMinter",
     "sensitive_content": false,
     "series_number": "17",
-    "series_total": "392",
+    "series_total": "420",
+    "gender": "male",
     "collection": {
         "name": "Zuri Hng NFT Collection",
         "id": "24f5ff82-a2f1-494e-8be5-69f1d5e42d15"

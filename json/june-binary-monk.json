@@ -1,0 +1,16 @@
+{
+    "format": "CHIP-0007",
+    "id": "102c4cdb-f812-44fd-bf47-5065284c6075",
+    "name": "June Binary Monk",
+    "filename": "june-binary-monk",
+    "description": "she has a twin thats from Tibet ",
+    "minting_tool": "TEAM ENGINE SuperMinter",
+    "sensitive_content": false,
+    "series_number": "53",
+    "series_total": "420",
+    "gender": "",
+    "collection": {
+        "name": "Zuri Hng NFT Collection",
+        "id": "24f5ff82-a2f1-494e-8be5-69f1d5e42d15"
+    }
+}

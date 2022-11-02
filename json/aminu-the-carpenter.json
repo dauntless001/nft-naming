@@ -3,11 +3,12 @@
     "id": "4f30b751-96e7-40fe-97fd-e3d44973ff2f",
     "name": "Aminu The Carpenter",
     "filename": "aminu-the-carpenter",
-    "description": "",
-    "minting_tool": "Matanmi Sea",
+    "description": "Aminu's hands are blessed, he makes the best furniture in the whole of Kano.",
+    "minting_tool": "TEAM BEVEL SuperMinter",
     "sensitive_content": false,
     "series_number": "4",
-    "series_total": "392",
+    "series_total": "420",
+    "gender": "male",
     "collection": {
         "name": "Zuri Hng NFT Collection",
         "id": "24f5ff82-a2f1-494e-8be5-69f1d5e42d15"

@@ -1,0 +1,16 @@
+{
+    "format": "CHIP-0007",
+    "id": "caacabe1-0abc-43af-92e2-2231248bff93",
+    "name": "Jessie Lord Rings",
+    "filename": "jessie-lord-rings",
+    "description": "she seeks her 'precious'",
+    "minting_tool": "TEAM ENGINE SuperMinter",
+    "sensitive_content": false,
+    "series_number": "45",
+    "series_total": "420",
+    "gender": "",
+    "collection": {
+        "name": "Zuri Hng NFT Collection",
+        "id": "24f5ff82-a2f1-494e-8be5-69f1d5e42d15"
+    }
+}

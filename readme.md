@@ -2,3 +2,8 @@ NFT Naming Script reads csv file named "nft-naming.csv" in the csv folder, loops
 
 Requirements 
 Python 3
+
+How to Run
+
+type in the console
+python main.py

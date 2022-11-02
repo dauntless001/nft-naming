@@ -5,5 +5,4 @@ Python 3
 
 How to Run
 
-type in the console
-python main.py
+type in the console "python main.py"

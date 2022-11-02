@@ -15,12 +15,11 @@ with open('csv/nft-naming.csv', 'r') as csv_file:
         if row[1] and row[2]:
             sn = row[0]
             file_name = row[1]
-            name = row[2]
             uuid = row[-1]
             nft = {
                 'format' : 'CHIP-0007',
                 'id' : uuid,
-                'name' : name.title(),
+                'name' : file_name.replace('-',' ').title(),
                 'filename': file_name,
                 'description' : '',
                 'minting_tool' : 'Matanmi SuperMint',

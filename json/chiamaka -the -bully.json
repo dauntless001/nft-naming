@@ -1,0 +1,15 @@
+{
+    "format": "CHIP-0007",
+    "id": "587658ca-5ace-11ed-9b6a-0242ac120002",
+    "name": "Chiamaka  The  Bully",
+    "filename": "chiamaka -the -bully",
+    "description": "",
+    "minting_tool": "Matanmi SuperMint",
+    "sensitive_content": false,
+    "series_number": "312",
+    "series_total": "392",
+    "collection": {
+        "name": "Zuri Hng NFT Collection",
+        "id": "24f5ff82-a2f1-494e-8be5-69f1d5e42d15"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "format": "CHIP-0007",
+    "id": "4f30b751-96e7-40fe-97fd-e3d44973ff2f",
+    "name": "Aminu The Carpenter",
+    "filename": "aminu-the-carpenter",
+    "description": "",
+    "minting_tool": "Matanmi Sea",
+    "sensitive_content": false,
+    "series_number": "4",
+    "series_total": "392",
+    "collection": {
+        "name": "Zuri Hng NFT Collection",
+        "id": "24f5ff82-a2f1-494e-8be5-69f1d5e42d15"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "format": "CHIP-0007",
+    "id": "1bd95fb0-7b2e-4354-bebd-22f9cf70a1ca",
+    "name": "Sandra Money",
+    "filename": "sandra-money",
+    "description": "",
+    "minting_tool": "Matanmi Sea",
+    "sensitive_content": false,
+    "series_number": "39",
+    "series_total": "392",
+    "collection": {
+        "name": "Zuri Hng NFT Collection",
+        "id": "24f5ff82-a2f1-494e-8be5-69f1d5e42d15"
+    }
+}

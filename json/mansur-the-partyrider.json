@@ -1,0 +1,15 @@
+{
+    "format": "CHIP-0007",
+    "id": "78db0f29-3936-4d9c-bb90-3dbf20dba2dd",
+    "name": "Mansur The Partyrider",
+    "filename": "mansur-the-partyrider",
+    "description": "",
+    "minting_tool": "Matanmi Sea",
+    "sensitive_content": false,
+    "series_number": "341",
+    "series_total": "392",
+    "collection": {
+        "name": "Zuri Hng NFT Collection",
+        "id": "24f5ff82-a2f1-494e-8be5-69f1d5e42d15"
+    }
+}

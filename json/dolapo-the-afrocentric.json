@@ -1,0 +1,15 @@
+{
+    "format": "CHIP-0007",
+    "id": "cbab232b-5c62-4df8-867b-018a2e496cd4",
+    "name": "Dolapo The Afrocentric",
+    "filename": "dolapo-the-afrocentric",
+    "description": "",
+    "minting_tool": "Matanmi Sea",
+    "sensitive_content": false,
+    "series_number": "348",
+    "series_total": "392",
+    "collection": {
+        "name": "Zuri Hng NFT Collection",
+        "id": "24f5ff82-a2f1-494e-8be5-69f1d5e42d15"
+    }
+}
